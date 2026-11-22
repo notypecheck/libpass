@@ -1,0 +1,19 @@
+# build artifacts
+dist/
+*.egg-info/
+
+# virtual environments
+.venv/
+
+# caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+# editors
+.idea/
+.vscode/
